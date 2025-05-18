@@ -1,0 +1,47 @@
+# Node and Vendor folders
+/node_modules/
+/vendor/
+
+# Laravel storage and compiled files
+/public/hot
+/public/storage
+/public/css/
+/public/js/
+/public/vendor/
+/public/mix-manifest.json
+
+/storage/*.key
+/storage/app/public
+/storage/debugbar/*
+/storage/framework/cache/data/*
+/storage/logs/*
+
+# Environment files
+.env
+.env.*
+
+# PHPUnit
+.phpunit.result.cache
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Homestead
+Homestead.json
+Homestead.yaml
+
+# Other
+composer.lock
+deploy.sh
