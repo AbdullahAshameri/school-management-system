@@ -6,10 +6,6 @@ Features include student management, attendance tracking, grading, promotions, n
 ---
 
 ![Admin Dashboard](screenshots/dashboard.png)
-![Attendance](screenshots/attendance.png)
-![Upload Excel grades file](screenshots/excel.png)
-![Academic stages](screenshots/academicstages.png)
-![Raise grades](screenshots/raisegrades.png)
 
 ## Users / Roles
 
