@@ -2,10 +2,10 @@
 
 A complete school management system built with **Laravel** and **Livewire**, supporting both Arabic and English languages.  
 Features include student management, attendance tracking, grading, promotions, notifications, file uploads, and multi-role access control.
+![Admin Dashboard](screenshots/dashboard.png)
 
 ---
 
-![Admin Dashboard](screenshots/dashboard.png)
 
 ## Users / Roles
 
